@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-style: 50px;
+}
+
+.button {
+  color: red;
+  font-size: 100px;
+  margin-top: 50px;
+}
+
+label {
+  font-size: 50px;
+  color: green;
+}
